@@ -14,15 +14,9 @@ Python developer. I write *efficient* and **elegant** code. Interested in web de
 - **Other Tools**: Matplotlib, REST APIs
 
 ## Projects
-
-### [Бот путевых листов](https://github.com/Enots21/AutoTravelSheet)
-Simplify trip tracking with our bot! Automatically generate waybills, save time and avoid mistakes.
-
-### [Телеграмм магазин по продаже бисера](https://github.com/Enots21/AutoTravelSheet)
-Cкоро будет описание
-
-### [Дипломная работа по Django Flask Fast](https://github.com/Enots21/Graduate-work)
-Analysis and comparison of writing web applications using different frameworks.
+### [AutoTravelSheet](https://github.com/Enots21/AutoTravelSheet)
+### [AdminPhotoBot](https://github.com/Enots21/-AdminPhotoBot)
+### [Graduate-work](https://github.com/Enots21/Graduate-work)
 
 <!-- Add more projects here -->
 
