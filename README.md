@@ -1,27 +1,37 @@
-<h1>👋 Hi! I'm Daniil. <span class="emoji">👨‍💻</span></h1>
-        <p>Python developer. I write <em>efficient</em> and <strong>elegant</strong> code. Interested in web development, data science, and automation. Love learning new things! ✨</p>
+# 👋 Hi! I'm Daniil. 👨‍💻
 
-<h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Web Development (e.g., Django, Flask)</li>
-            <li>Data Science (e.g., Pandas, NumPy, Scikit-learn)</li>
-            <li>Automation (e.g., Selenium, Beautiful Soup)</li>
-            <li>Version Control (Git, GitHub)</li>
-            <li>Databases (SQL, PostgreSQL)</li>
-        </ul>
+Python developer. I write *efficient* and **elegant** code. Interested in web development, data science, and automation. Love learning new things! ✨
 
-<h2>Projects</h2>
-        <ul>
-            <li><a href="[Project 1 Link]">Project 1</a> - Brief description of Project 1</li>
-            <li><a href="[Project 2 Link]">Project 2</a> - Brief description of Project 2</li>
-            <li><a href="[Project 3 Link]">Project 3</a> - Brief description of Project 3</li>
-            <!-- Add more projects here -->
-        </ul>
+## Skills
 
-<h2>Contact</h2>
-        <p>
-            📧 <a href="mailto:[your_email]">[your_email]</a><br>
-            🔗 <a href="[Your LinkedIn Profile]">LinkedIn</a><br>
-            🐙 <a href="[Your GitHub Profile]">GitHub</a>
-        </p>
+- **Python**
+- **Web Development**: Django, Flask
+- **Data Science**: Pandas, NumPy, Scikit-learn
+- **Automation**: Selenium, Beautiful Soup
+- **Version Control**: Git, GitHub
+- **Databases**: SQL, PostgreSQL
+- **Containerization**: Docker
+- **Other Tools**: Matplotlib, REST APIs
+
+## Projects
+
+### [Бот путевых листов](https://github.com/Enots21/AutoTravelSheet)
+Simplify trip tracking with our bot! Automatically generate waybills, save time and avoid mistakes.
+
+### [Телеграмм магазин по продаже бисера](https://github.com/Enots21/AutoTravelSheet)
+Cкоро будет описание
+
+### [Дипломная работа по Django Flask Fast](https://github.com/Enots21/Graduate-work)
+Analysis and comparison of writing web applications using different frameworks.
+
+<!-- Add more projects here -->
+
+## About Me
+
+I'm a passionate developer with a strong focus on Python. I enjoy solving complex problems and building tools that make life easier. When I'm not coding, I love exploring new technologies, contributing to open-source projects, and sharing knowledge with others.
+
+## Contact
+
+- **Email**: jekserv@gmial.com
+- **VK**: https://vk.com/bgood2
+- **Telegran**: https://t.me/bgood2s
