@@ -35,3 +35,4 @@ I'm a passionate developer with a strong focus on Python. I enjoy solving comple
 - **Email**: jekserv@gmial.com
 - **VK**: https://vk.com/bgood2
 - **Telegran**: https://t.me/bgood2s
+- **Resume**: https://docs.google.com/document/d/1CeFR3TycPFbGStcTVNvXd-w7SvVY7fuzNACOQ4tFZ_Y/edit?usp=sharing
