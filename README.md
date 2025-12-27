@@ -29,4 +29,5 @@ I'm a passionate developer with a strong focus on Python. I enjoy solving comple
 - **Email**: jekserv@gmial.com
 - **VK**: https://vk.com/bgood2
 - **Telegran**: https://t.me/bgood2s
+- **linkedin**: www.linkedin.com/in/задрот-по-играм-1ab4503a1
 - **Resume**: [https://clck.ru/3GRE9J](https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944)
