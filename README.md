@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=550&lines=Привет%2C+я+Даниил;Middle+Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Bots" alt="header" />
+<h1>Привет, я Даниил 👋</h1>
+<h3>Middle Python Developer</h3>
+<p><code>FastAPI · PostgreSQL · Telegram · Bots</code></p>
 
 <br>
 
