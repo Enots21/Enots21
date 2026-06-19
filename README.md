@@ -1,40 +1,43 @@
-<h2 align="left">Даниил</h2>
-
-<p align="left">
-  Python-разработчик · FastAPI · PostgreSQL · Telegram-боты
+<p align="center">
+  <strong>Даниил</strong><br>
+  <sub>Python · FastAPI · PostgreSQL</sub>
 </p>
 
-<p align="left">
-  Backend и веб-сервисы под прод: API, личные кабинеты, интеграции, деплой на Linux.
+<p align="center">
+  <em>Backend-разработчик. Сервисы, боты, API — под прод на Linux.</em>
 </p>
 
-<br>
+<p align="center">· · ·</p>
 
-**Сейчас** — [Sender Bots Platform](https://github.com/Enots21/FastApi-Project-bots)  
-Платформа рассылочных Telegram-ботов · FastAPI · PostgreSQL · Bitrix24 · NOWPayments
+<p align="center">
+  <a href="https://github.com/Enots21/FastApi-Project-bots"><strong>Sender Bots Platform</strong></a><br>
+  <sub>рассылочные Telegram-боты · слоты · оплата · админка</sub>
+</p>
 
-<br>
+<p align="center">· · ·</p>
 
-**Стек**
+<p align="center">
+  <code>Python</code> &nbsp; <code>FastAPI</code> &nbsp; <code>asyncio</code> &nbsp; <code>PostgreSQL</code><br>
+  <code>SQLAlchemy</code> &nbsp; <code>Linux</code> &nbsp; <code>Git</code> &nbsp; <code>Telegram API</code>
+</p>
 
-```
-Python · FastAPI · Pydantic · asyncio · httpx
-PostgreSQL · SQLAlchemy · Alembic
-Linux · systemd · Git · Docker
-Telegram Bot API · REST · webhooks
-```
+<p align="center">· · ·</p>
 
-<br>
+<p align="center">
+  <sub>
+    <a href="https://github.com/Enots21/FastApi-Project-bots">Sender Bots</a> /
+    <a href="https://github.com/Enots21/-AdminPhotoBot">AdminPhotoBot</a> /
+    <a href="https://github.com/Enots21/AutoTravelSheet">AutoTravelSheet</a> /
+    <a href="https://github.com/Enots21/Graduate-work">Graduate-work</a>
+  </sub>
+</p>
 
-**Проекты**
+<p align="center">· · ·</p>
 
-→ [FastApi-Project-bots](https://github.com/Enots21/FastApi-Project-bots) — основной production-проект  
-→ [AdminPhotoBot](https://github.com/Enots21/-AdminPhotoBot) — Telegram-бот  
-→ [AutoTravelSheet](https://github.com/Enots21/AutoTravelSheet) — автоматизация документов  
-→ [Graduate-work](https://github.com/Enots21/Graduate-work) — диплом, Python
-
-<br>
-
-**Связь**
-
-[Telegram](https://t.me/bgood2s) · [Email](mailto:jekserv@gmail.com) · [Резюме](https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944)
+<p align="center">
+  <a href="https://t.me/bgood2s">telegram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jekserv@gmail.com">mail</a>
+  &nbsp;·&nbsp;
+  <a href="https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944">resume</a>
+</p>
