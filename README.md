@@ -1,112 +1,103 @@
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=140&section=header&text=Даниил&fontSize=48&fontColor=f8fafc&animation=fadeIn" width="100%" alt="Даниил"/>
+<h1 align="center">Даниил</h1>
+<p align="center"><code>Middle Python Developer</code></p>
 
-<h3 align="left">Python-разработчик · FastAPI · PostgreSQL · Telegram</h3>
-
-<p align="left">
-  Собираю веб-сервисы и ботов, которые реально крутятся на сервере — не только локально.
-  Сейчас развиваю <a href="https://github.com/Enots21/FastApi-Project-bots"><b>Sender Bots Platform</b></a>.
+<p align="center">
+  FastAPI · PostgreSQL · Telegram · Linux · Git
 </p>
 
-<p align="left">
-  <a href="https://t.me/bgood2s">Telegram</a> ·
-  <a href="mailto:jekserv@gmail.com">Email</a> ·
-  <a href="https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944">Резюме</a> ·
-  <a href="https://vk.com/bgood2">VK</a>
+<p align="center">
+  <a href="https://github.com/Enots21/FastApi-Project-bots"><img src="https://img.shields.io/badge/▶_Sender_Bots_Platform-0f172a?style=for-the-badge&labelColor=1e40af" alt="Sender Bots"/></a>
 </p>
 
 <br>
 
-## Сейчас
+```bash
+$ cat about.txt
+Python-разработчик. Делаю backend и веб-кабинеты, которые деплоятся
+на сервер и работают без ручного FTP.
 
-```text
-▸  Sender Bots Platform     FastAPI + PostgreSQL + NOWPayments + Bitrix24
-▸  Telegram-боты рассылок   asyncio, парсинг, systemd
-▸  Git workflow             main / dev / feature branches
+Сейчас: Sender Bots — платформа рассылочных Telegram-ботов для LiveJasmin.
+Стек: FastAPI, PostgreSQL, NOWPayments, Bitrix24, OpenAI API.
 ```
 
 <br>
 
-## Стек
+<details open>
+<summary><b>🛠 &nbsp;Технологии</b></summary>
+<br>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+| Backend | Data | DevOps & Tools |
+|:--|:--|:--|
+| Python 3.10+ | PostgreSQL | Linux · systemd |
+| FastAPI · Pydantic | SQLAlchemy · Alembic | Git · GitHub |
+| asyncio · httpx | REST API design | SSH deploy |
+| Jinja2 · JS (ЛК) | aiosqlite | Docker |
 
-**Backend**
-```
-Python 3.10+
-FastAPI · Pydantic
-asyncio · httpx
-SQLAlchemy · Alembic
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Инфраструктура**
-```
-PostgreSQL
-Linux · systemd
-Git · GitHub
-SSH deploy
-Docker
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Интеграции**
-```
-Telegram Bot API
-Bitrix24 webhooks
-NOWPayments
-OpenAI API
-Selenium · BS4
-```
-
-</td>
-</tr>
-</table>
+</details>
 
 <br>
 
-## Проекты
-
-<table>
-<tr>
-<td width="180"><b>Sender Bots</b></td>
-<td>
-  <a href="https://github.com/Enots21/FastApi-Project-bots">FastApi-Project-bots</a> — платформа управления рассылочными ботами LiveJasmin.<br>
-  Личные кабинеты, оплата слотов, ИИ-тексты, админка, чёрный список.
-</td>
-</tr>
-<tr>
-<td><b>AdminPhotoBot</b></td>
-<td><a href="https://github.com/Enots21/-AdminPhotoBot">Telegram-бот</a> для администрирования фото-контента</td>
-</tr>
-<tr>
-<td><b>AutoTravelSheet</b></td>
-<td><a href="https://github.com/Enots21/AutoTravelSheet">Бот</a> для генерации путевых листов</td>
-</tr>
-<tr>
-<td><b>Graduate-work</b></td>
-<td><a href="https://github.com/Enots21/Graduate-work">Дипломная работа</a> — Python, анализ данных</td>
-</tr>
-</table>
-
+<details open>
+<summary><b>📁 &nbsp;Проекты</b></summary>
 <br>
 
-## Опыт в двух словах
+**[Sender Bots Platform →](https://github.com/Enots21/FastApi-Project-bots)**  
+`FastApi-Project-bots` · главный production-проект  
+Личные кабинеты моделей · оплата слотов · ИИ-тексты · админка · чёрный список
+
+<br>
 
 | | |
-|---|---|
-| Уровень | Middle Python |
-| Фокус | REST API, личные кабинеты, фоновые задачи |
-| Подход | Ветки, code review через Git, деплой без FTP |
-| Языки | Python · SQL · HTML/JS (шаблоны ЛК) |
+|:--|:--|
+| [AdminPhotoBot](https://github.com/Enots21/-AdminPhotoBot) | Telegram-бот для фото-контента |
+| [AutoTravelSheet](https://github.com/Enots21/AutoTravelSheet) | Генерация путевых листов |
+| [Graduate-work](https://github.com/Enots21/Graduate-work) | Диплом · Python · data analysis |
+
+</details>
 
 <br>
 
-<!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=80&section=footer&fontSize=14&fontColor=64748b&text=open%20to%20work%20%C2%B7%20Python%20%C2%B7%20FastAPI" width="100%" alt="footer"/>
+<details>
+<summary><b>⚙️ &nbsp;Как работаю</b></summary>
+<br>
+
+```mermaid
+gitGraph
+   commit id: "feature"
+   branch dev
+   checkout dev
+   merge id: "test"
+   checkout main
+   merge id: "prod"
+```
+
+```
+feature/*  ──→  dev (тест)  ──→  main (прод)  ──→  git pull + systemctl restart
+```
+
+Коммиты с понятным описанием · отдельные ветки под задачи · деплой через Git, не FTP
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📫 &nbsp;Контакты</b></summary>
+<br>
+
+| | |
+|:--|:--|
+| Telegram | [@bgood2s](https://t.me/bgood2s) |
+| Email | [jekserv@gmail.com](mailto:jekserv@gmail.com) |
+| Резюме | [HH.ru](https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944) |
+| VK | [bgood2](https://vk.com/bgood2) |
+
+</details>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enots21/Enots21/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+<p align="center"><sub>Python · backend · bots · web</sub></p>
