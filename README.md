@@ -97,7 +97,7 @@ feature/*  ──→  dev (тест)  ──→  main (прод)  ──→  git
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Enots21/Enots21/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Enots21/Enots21/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
 
 <p align="center"><sub>Python · backend · bots · web</sub></p>
