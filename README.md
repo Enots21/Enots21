@@ -86,16 +86,6 @@ class Daniil:
 
 ---
 
-### 🌿 Git-flow
-
-```
-feature/*  ──→  dev  ──→  main  ──→  git pull на сервере
-```
-
-Коммиты с описанием · ветки под задачи · деплой без FTP
-
----
-
 <div align="center">
 
 [![VK](https://img.shields.io/badge/VK-bgood2-0077FF?style=flat-square&logo=vk)](https://vk.com/bgood2)
