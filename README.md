@@ -79,7 +79,6 @@ class Daniil:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Enots21&show_icons=true&theme=dracula&hide_border=true&hide=issues" height="170" alt="stats"/>
-<img src="https://streak-stats.dher.dev?user=Enots21&theme=dracula&hide_border=true" height="170" alt="streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enots21&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" alt="langs"/>
 
 </div>
