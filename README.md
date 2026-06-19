@@ -1,129 +1,112 @@
-<div align="center">
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=140&section=header&text=Даниил&fontSize=48&fontColor=f8fafc&animation=fadeIn" width="100%" alt="Даниил"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Даниил+%7C+Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Automation;Building+production+web+systems" alt="Typing SVG" />
+<h3 align="left">Python-разработчик · FastAPI · PostgreSQL · Telegram</h3>
 
-<br>
+<p align="left">
+  Собираю веб-сервисы и ботов, которые реально крутятся на сервере — не только локально.
+  Сейчас развиваю <a href="https://github.com/Enots21/FastApi-Project-bots"><b>Sender Bots Platform</b></a>.
+</p>
 
-**Middle Python-разработчик** · веб-сервисы, автоматизация, Telegram-боты, интеграции API
-
-[![Telegram](https://img.shields.io/badge/Telegram-@bgood2s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bgood2s)
-[![Email](https://img.shields.io/badge/Email-jekserv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jekserv@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-HH.ru-0077FF?style=for-the-badge)](https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944)
-
-</div>
-
----
-
-## 👨‍💻 Обо мне
-
-Разрабатываю **production-ready** Python-приложения: REST API, личные кабинеты, фоновые задачи, интеграции с CRM и платёжными системами.
-
-Сейчас веду проект **Sender Bots Platform** — платформу управления Telegram-ботами рассылок для LiveJasmin (FastAPI + PostgreSQL + NOWPayments + Bitrix24).
-
-```python
-class Developer:
-    role = "Middle Python Developer"
-    focus = ["FastAPI", "PostgreSQL", "Telegram bots", "API integrations"]
-    approach = "Clean code, git workflow, deploy via systemd"
-```
-
----
-
-## 🛠 Стек
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
-| Область | Технологии |
-|---------|------------|
-| **Backend** | FastAPI, Uvicorn, Pydantic, asyncio, httpx |
-| **Базы данных** | PostgreSQL, SQLAlchemy, Alembic, aiosqlite |
-| **Frontend (ЛК)** | Jinja2, Bootstrap, vanilla JS |
-| **DevOps** | systemd, Git (main/dev workflow), SSH deploy |
-| **Интеграции** | Bitrix24 webhooks, NOWPayments, REST API |
-| **Автоматизация** | Selenium, BeautifulSoup, парсинг, Telegram bots |
-
----
-
-## 🚀 Избранные проекты
-
-### 📨 [Sender Bots Platform](https://github.com/Enots21/FastApi-Project-bots) — *основной проект*
-
-> Веб-платформа для управления экосистемой рассылочных Telegram-ботов
-
-- FastAPI REST API + личные кабинеты моделей (внутренний и публичный ЛК)
-- PostgreSQL, слоты моделей, оплата NOWPayments (USDT)
-- ИИ-генерация текстов рассылок, чёрный список мемберов
-- Админ-панель: пользователи, подписки, мониторинг сервера
-- Git workflow: `main` (prod) / `dev` (test) / feature branches
-
----
-
-### 🤖 [AdminPhotoBot](https://github.com/Enots21/-AdminPhotoBot)
-Telegram-бот для администрирования фото-контента.
-
-### 🚗 [AutoTravelSheet](https://github.com/Enots21/AutoTravelSheet)
-Бот для автоматической генерации путевых листов.
-
-### 🎓 [Graduate-work](https://github.com/Enots21/Graduate-work)
-Дипломная работа — Python, анализ данных.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Enots21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enots21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🌿 Как я работаю с Git
-
-```
-feature/fix branch  →  dev (тест)  →  main (prod)  →  git pull на сервере
-```
-
-- Осмысленные commit messages на русском / английском
-- Отдельные ветки под фичи и рефакторинг
-- Деплой без FTP — только `git pull` + `systemctl restart`
-
----
-
-## 📫 Контакты
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@bgood2s-0088cc?style=flat-square&logo=telegram)](https://t.me/bgood2s)
-[![VK](https://img.shields.io/badge/VK-bgood2-0077FF?style=flat-square&logo=vk)](https://vk.com/bgood2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/задрот-по-играм-1ab4503a1)
-[![HH.ru](https://img.shields.io/badge/HH.ru-Резюме-FF0000?style=flat-square)](https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944)
-
-</div>
-
----
-
-<div align="center">
-
-*«Пишу код, который работает на сервере, а не только на ноутбуке»*
+<p align="left">
+  <a href="https://t.me/bgood2s">Telegram</a> ·
+  <a href="mailto:jekserv@gmail.com">Email</a> ·
+  <a href="https://cheboksary.hh.ru/resume/d0de6376ff0fccac750039ed1f797648476944">Резюме</a> ·
+  <a href="https://vk.com/bgood2">VK</a>
+</p>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Enots21&color=3b82f6&style=flat-square)
+## Сейчас
 
-</div>
+```text
+▸  Sender Bots Platform     FastAPI + PostgreSQL + NOWPayments + Bitrix24
+▸  Telegram-боты рассылок   asyncio, парсинг, systemd
+▸  Git workflow             main / dev / feature branches
+```
+
+<br>
+
+## Стек
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+```
+Python 3.10+
+FastAPI · Pydantic
+asyncio · httpx
+SQLAlchemy · Alembic
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Инфраструктура**
+```
+PostgreSQL
+Linux · systemd
+Git · GitHub
+SSH deploy
+Docker
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Интеграции**
+```
+Telegram Bot API
+Bitrix24 webhooks
+NOWPayments
+OpenAI API
+Selenium · BS4
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Проекты
+
+<table>
+<tr>
+<td width="180"><b>Sender Bots</b></td>
+<td>
+  <a href="https://github.com/Enots21/FastApi-Project-bots">FastApi-Project-bots</a> — платформа управления рассылочными ботами LiveJasmin.<br>
+  Личные кабинеты, оплата слотов, ИИ-тексты, админка, чёрный список.
+</td>
+</tr>
+<tr>
+<td><b>AdminPhotoBot</b></td>
+<td><a href="https://github.com/Enots21/-AdminPhotoBot">Telegram-бот</a> для администрирования фото-контента</td>
+</tr>
+<tr>
+<td><b>AutoTravelSheet</b></td>
+<td><a href="https://github.com/Enots21/AutoTravelSheet">Бот</a> для генерации путевых листов</td>
+</tr>
+<tr>
+<td><b>Graduate-work</b></td>
+<td><a href="https://github.com/Enots21/Graduate-work">Дипломная работа</a> — Python, анализ данных</td>
+</tr>
+</table>
+
+<br>
+
+## Опыт в двух словах
+
+| | |
+|---|---|
+| Уровень | Middle Python |
+| Фокус | REST API, личные кабинеты, фоновые задачи |
+| Подход | Ветки, code review через Git, деплой без FTP |
+| Языки | Python · SQL · HTML/JS (шаблоны ЛК) |
+
+<br>
+
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=80&section=footer&fontSize=14&fontColor=64748b&text=open%20to%20work%20%C2%B7%20Python%20%C2%B7%20FastAPI" width="100%" alt="footer"/>
