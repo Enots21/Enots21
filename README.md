@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=550&lines=Привет%2C+я+Даниил;Middle+Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Bots" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=550&lines=Привет%2C+я+Даниил;Middle+Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Bots" alt="header" />
 
 <br>
 
@@ -78,8 +78,9 @@ class Daniil:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enots21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Enots21&theme=dracula&hide_border=true" height="170" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Enots21&show_icons=true&theme=dracula&hide_border=true&hide=issues" height="170" alt="stats"/>
+<img src="https://streak-stats.dher.dev?user=Enots21&theme=dracula&hide_border=true" height="170" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enots21&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" alt="langs"/>
 
 </div>
 
